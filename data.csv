@@ -476,7 +476,7 @@
 "DSPM/O/O/FOO/21/08/0048","DSP Global Innovation Overseas Equity Omni FoF",1.85,0.0,0.0,0.2,2.05,1.11,0.0,0.0,0.07,1.18
 "DSPM/O/O/GET/23/02/0060","DSP Gold ETF",0.0,0.0,0.0,0.0,0.0,0.38,0.0,0.0,0.07,0.45
 "DSPM/O/O/FOD/23/05/0066","DSP Gold ETF Fund of Fund",0.9,0.0,0.0,0.1,1.0,0.59,0.0,0.0,0.05,0.64
-"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.64,0.04,0.0,0.37,2.05,0.54,0.04,0.0,0.18,0.76
+"DSPM/O/E/SEC/18/05/0035","DSP Healthcare Fund",1.63,0.04,0.0,0.37,2.04,0.53,0.04,0.0,0.18,0.75
 "DSPM/O/O/FOO/14/06/0028","DSP Income Plus Arbitrage Omni FoF",0.75,0.0,0.0,0.08,0.83,0.42,0.0,0.0,0.02,0.44
 "DSPM/O/E/SEC/04/04/0011","DSP India T.I.G.E.R. Fund",1.56,0.05,0.01,0.4,2.02,0.74,0.05,0.01,0.26,1.06
 "DSPM/O/E/LMF/00/02/0007","DSP Large & Mid Cap Fund",1.39,0.05,0.0,0.4,1.84,0.51,0.05,0.0,0.24,0.8
@@ -2149,7 +2149,7 @@
 "WHIT/O/E/THE/24/09/0019","WhiteOak Capital ESG Best-In-Class Strategy Fund",2.1,0.04,0.01,0.5,2.65,0.7,0.04,0.01,0.25,1.0
 "WHIT/O/E/FCF/22/03/0004","WhiteOak Capital Flexi Cap Fund",1.5,0.05,0.01,0.48,2.04,0.47,0.05,0.01,0.3,0.83
 "WHIT/O/E/LMF/23/10/0013","WhiteOak Capital Large & Mid Cap Fund",1.7,0.05,0.01,0.57,2.33,0.47,0.05,0.01,0.35,0.88
-"WHIT/O/E/LCF/22/06/0007","WhiteOak Capital Large Cap Fund",1.84,0.05,0.01,0.55,2.45,0.53,0.05,0.01,0.31,0.9
+"WHIT/O/E/LCF/22/06/0007","WhiteOak Capital Large Cap Fund",1.84,0.05,0.01,0.55,2.45,0.52,0.05,0.01,0.31,0.89
 "WHIT/O/D/LIF/18/11/0001","WhiteOak Capital Liquid Fund",0.21,0.0,0.0,0.03,0.24,0.12,0.0,0.0,0.02,0.14
 "WHIT/O/E/MIF/22/05/0005","WhiteOak Capital Mid Cap Fund",1.52,0.08,0.02,0.61,2.23,0.43,0.08,0.02,0.42,0.95
 "WHIT/O/H/MAA/23/02/0010","WhiteOak Capital Multi Asset Allocation Fund",1.24,0.04,0.01,0.36,1.65,0.37,0.04,0.01,0.21,0.63
